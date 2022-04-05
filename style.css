@@ -417,15 +417,6 @@ header h1
 
 @media screen and (max-width: 582px){.content-sec-index2 p{font-size: 18px;}}
 
-
-
-
-
-
-
-
-
-
 .section-2
 {
 	background-image: url(asserts/images/photo-1622737133809-d95047b9e673.jpg);
@@ -700,6 +691,7 @@ header h1
   padding-top: 34%;
   user-select: none;
   touch-action: none;
+  cursor: pointer;
 }
 
 /** Viewport contains SVG slides */
