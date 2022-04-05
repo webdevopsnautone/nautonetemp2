@@ -132,7 +132,7 @@ body
 
 #popupVideo video
 {
- margin-top: 20px;
+ margin-top: 5%;
 }
 
 @media screen and (max-width: 550px){#popupVideo video {border: none;}}
@@ -244,10 +244,10 @@ nav .menu-bar
 {
   font-family: unisans;
   font-size: 5vw;
-  padding: 0px;
+  padding: 20px;
   transition: 0.5s;
 }
-
+@media screen and (max-width: 1550px) {.drop-lk {font-size: 7.6vw;padding:0px;}}
 @media screen and (max-width: 450px) {.drop-lk {font-size: 7.6vw;}}
 
 .drop-lk:hover{
