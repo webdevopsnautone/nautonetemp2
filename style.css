@@ -727,7 +727,8 @@ header h1
 .svg-slider__slide {
   display: block;
   position: absolute;
-  
+  box-shadow:1px 5px 30px rgb(0 0 0 / 10%);
+  border-radius: 10%;
   left: 50%;
   width: auto;
   height: 100%;
