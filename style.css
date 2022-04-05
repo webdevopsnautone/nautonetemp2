@@ -244,10 +244,10 @@ nav .menu-bar
 {
   font-family: unisans;
   font-size: 5vw;
-  padding: 20px;
+  padding: 27px;
   transition: 0.5s;
 }
-@media screen and (max-width: 1550px) {.drop-lk {font-size: 7.6vw;padding:0px;}}
+@media screen and (max-width: 1550px) {.drop-lk {padding:0px;}}
 @media screen and (max-width: 450px) {.drop-lk {font-size: 7.6vw;}}
 
 .drop-lk:hover{
