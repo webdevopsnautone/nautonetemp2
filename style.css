@@ -231,7 +231,7 @@ nav .menu-bar
 	border: 3px;
 }
 
-@media screen and (max-width: 466px) {.sidenav .head .btn{float: none;text-align: center;margin-top:0em;height:auto;}} 
+@media screen and (max-width: 466px) {.sidenav .head .btn{float: none;text-align: center;margin-top:0em;height:2.3em;}} 
 
 .drop-div
 {
