@@ -936,8 +936,8 @@ header h1
 
 .social-handle span
 {
-	padding:9px;
-	border-radius: 5px;
+	padding:15px 9px;
+	border-radius: 50%;
 }
 
 .social-handle .fa
